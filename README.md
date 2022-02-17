@@ -1,7 +1,7 @@
 # hse_hw1_meth
 
 ссылка на colab - https://colab.research.google.com/drive/1FFpiFzbm9VLL1DOLounL8RMIaxtsVBr9?usp=sharing
-Все html отчеты в папке
+Все html отчеты в папке https://github.com/antonsokol57/hse_hw1_meth/tree/main/htmls
 
 # Часть 1
 # QC прочтений для 8cell:
