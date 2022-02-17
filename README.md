@@ -1,6 +1,8 @@
 # hse_hw1_meth
 
 ссылка на colab - https://colab.research.google.com/drive/1FFpiFzbm9VLL1DOLounL8RMIaxtsVBr9?usp=sharing
+Все html отчеты в папке
+
 # Часть 1
 # QC прочтений для 8cell:
 ![image](https://user-images.githubusercontent.com/92381120/154567807-c0a6185d-2833-45e9-a580-f7bf71b23896.png)
