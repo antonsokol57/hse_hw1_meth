@@ -10,6 +10,6 @@
 ![image](https://user-images.githubusercontent.com/92381120/154568343-f8dd0308-3da6-4abc-9d6d-42abf4bb5912.png)
 
 У РНК процент GC (49%) выше, чем у BS-Seq (36 %), в BS - SEQ почти отсутствуют Цитозины, cодержание Тимина выше, чем в РНК, а Гуанина – ниже. В отличие от РНК, у BS - SEQ большое смещение Per sequence GC content от теоретического.
-
+# 2
 # a + b)
 ![image](https://user-images.githubusercontent.com/92381120/154316913-7139abb4-9d42-45e7-a212-23279936529b.png)
