@@ -21,17 +21,17 @@
 
 # d)
 
-cell8:
+# cell8:
 
 ![image](https://user-images.githubusercontent.com/92381120/154569968-9b9c611c-88be-47d0-ae7f-f82683ea33a3.png)
 ![image](https://user-images.githubusercontent.com/92381120/154570042-13ba0b9d-e45b-4333-a15c-66e536ea0b7c.png)
 
-epiblast
+# epiblast
 
 ![image](https://user-images.githubusercontent.com/92381120/154570369-0e96891d-ac24-4b05-b6e0-912c210d7938.png)
 ![image](https://user-images.githubusercontent.com/92381120/154570388-ddd5f450-b248-4892-8798-f026afc66b1e.png)
 
-icm
+# icm
 
 ![image](https://user-images.githubusercontent.com/92381120/154570427-3994bc3d-4711-42c2-b2ec-40b3720ff18e.png)
 ![image](https://user-images.githubusercontent.com/92381120/154570446-0b9fb0af-21e3-44ea-b5eb-d392a976f5fc.png)
